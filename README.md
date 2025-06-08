@@ -27,8 +27,8 @@
 ```
 
 💼 Let’s Connect!
-	•	📫 Email: faheem.bashir@surrey.ac.uk
-	•	🐦 LinkedIn
+	•	📫 Email: adahm7114@gmail.com
+	•	🐦 LinkedIn: www.linkedin.com/in/faheem-bht
 	•	📂 Portfolio & Projects: coming soon 👀
 
 ⚡ Fun Fact
