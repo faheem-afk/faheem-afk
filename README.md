@@ -1,44 +1,46 @@
-<h1 align="center">Hi there 👋, I'm Faheem!</h1>
+<h1 align="center">Hi 👋, I'm Faheem Bashir Bhat</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <br>
-  <b>Machine Learning Enthusiast | Deep Learning Explorer | Data Science Grad</b>
+  <b>Data Scientist | Machine Learning Engineer | Time-Series & Deep Learning Enthusiast</b>
 </p>
 
-### 👨‍💻 About Me
-- 🎓 Master's in **Data Science** @ University of Surrey 🇬🇧  
-- 🧠 Currently working on my dissertation:  
-  <em><strong>"Prediction and Optimization of 5G Energy Consumption"</strong></em>  
-  Using CNN + LSTM / GRU / RNN 🧮 + Hyperparameter tuning with Optuna ⚙️  
-- 💡 Passionate about solving real-world problems with ML  
-- 🧰 Tech stack I love: **PyTorch, Docker, SQL, GCP, Flask, scikit-learn**
+<p align="center">
+  I build machine learning systems that go beyond notebooks — from feature engineering and model training to deployment-ready workflows.
+</p>
 
-### 🔧 What I'm Building Now
+---
+
+## 👨‍💻 About Me
+
+- 🎓 MSc in **Data Science** @ **University of Surrey** 🇬🇧  
+- 🔭 Currently working on **Demand Forecasting**  
+  <em><strong>Predicting meal demand across multiple cities 12 weeks ahead</strong></em> using historical order data, time-series features, XGBoost, and neural networks  
+- 🧠 Previously worked on:
+  - **Prediction and Optimization of 5G Energy Consumption**
+  - **Named Entity Recognition (NER)** with deep learning and deployment workflows
+- 💡 Interested in building ML systems that are **accurate, robust, and practical in real-world settings**
+- ⚙️ I enjoy working on:
+  **feature engineering, forecasting, model optimization, embeddings, validation strategy, and deployment**
+
+---
+
+## 🛠️ What I'm Working With
+
+- **Machine Learning:** `scikit-learn`, `XGBoost`, `Optuna`
+- **Deep Learning:** `PyTorch`, `TensorFlow/Keras`, `CNN`, `LSTM`, `GRU`, `RNN`
+- **Time-Series / Forecasting:** lag features, rolling features, seasonality, direct multi-step forecasting
+- **Data Tools:** `Pandas`, `NumPy`, `SQL`
+- **Deployment / Engineering:** `Docker`, `Flask`, `PostgreSQL`, `GCP`
+
+---
+
+## 🚀 Current Focus
+
 ```python
-# CNN + Sequence Models + Optuna
-📊 I’m experimenting with deep learning models to forecast energy usage across 5G base stations.
-🧪 Focused on generalization, loss optimization, and robust training using Group K-Fold!
-
-🌟 Projects Worth Checking
-	•	🔍 NER Web App using BERT + Flask + Docker + GCP
-→ A full-stack NLP application for real-time entity recognition
-	•	💬 Duplicate Question Classifier
-→ Quora duplicate detection using XGBoost + NLP preprocessing
-```
-
-💼 Let’s Connect!
-	•	📫 Email: adahm7114@gmail.com
-	•	🐦 LinkedIn: www.linkedin.com/in/faheem-bht
-	•	📂 Portfolio & Projects: coming soon 👀
-
-⚡ Fun Fact
-
-I once spent 14 hours debugging a model, only to discover a missing .float() 🤯
-
-✨ Motto
-
-Build. Break. Learn. Repeat. 💥
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faheem-afk&show_icons=true&theme=radical" alt="Faheem's Github Stats"/>
-</p>
+# Demand Forecasting Pipeline
+- Multi-city meal demand forecasting
+- 12-week ahead prediction
+- Time-series feature engineering
+- XGBoost baselines and neural network models
+- Embedding-based learning for categorical variables
+- Production-style workflow with Docker + PostgreSQL
