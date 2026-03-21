@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Faheem</h1>
+<h1 align="center">Hi there 👋, I'm Faheem</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Turning+messy+data+into+reliable+systems;Building+end-to-end+data+pipelines;Focused+on+real-world+impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Turning+messy+data+into+reliable+systems;Building+end-to-end+data+pipelines;Focused+on+real-world+impact" />
 </p>
-
 ---
 
 ### 🧠 About Me
