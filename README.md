@@ -3,7 +3,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Turning+messy+data+into+reliable+systems;Building+end-to-end+data+pipelines;Focused+on+real-world+impact" />
 </p>
----
+
+<h1 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Faheem
+</h1>
 
 ### 🧠 About Me
 
