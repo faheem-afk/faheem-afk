@@ -1,46 +1,70 @@
-<h1 align="center">Hi 👋, I'm Faheem Bashir Bhat</h1>
 
-<p align="center">
-  <b>Data Scientist | Machine Learning Engineer | Time-Series & Deep Learning Enthusiast</b>
-</p>
+👋 Hey, I’m Faheem
 
-<p align="center">
-  I build machine learning systems that go beyond notebooks — from feature engineering and model training to deployment-ready workflows.
-</p>
+Most data problems don’t fail because of algorithms.
+They fail because the data wasn’t understood properly.
 
----
+That’s where I spend most of my time.
 
-## 👨‍💻 About Me
+⸻
 
-- 🎓 MSc in **Data Science** @ **University of Surrey** 🇬🇧  
-- 🔭 Currently working on **Demand Forecasting**  
-  <em><strong>Predicting meal demand across multiple cities 12 weeks ahead</strong></em> using historical order data, time-series features, XGBoost, and neural networks  
-- 🧠 Previously worked on:
-  - **Prediction and Optimization of 5G Energy Consumption**
-  - **Named Entity Recognition (NER)** with deep learning and deployment workflows
-- 💡 Interested in building ML systems that are **accurate, robust, and practical in real-world settings**
-- ⚙️ I enjoy working on:
-  **feature engineering, forecasting, model optimization, embeddings, validation strategy, and deployment**
+🧠 What I focus on
 
----
+I work on turning messy, real-world data into systems that actually work end-to-end.
 
-## 🛠️ What I'm Working With
+Not just analysis.
+Not just code.
 
-- **Machine Learning:** `scikit-learn`, `XGBoost`, `Optuna`
-- **Deep Learning:** `PyTorch`, `TensorFlow/Keras`, `CNN`, `LSTM`, `GRU`, `RNN`
-- **Time-Series / Forecasting:** lag features, rolling features, seasonality, direct multi-step forecasting
-- **Data Tools:** `Pandas`, `NumPy`, `SQL`
-- **Deployment / Engineering:** `Docker`, `Flask`, `PostgreSQL`, `GCP`
+But pipelines that:
+	•	make data usable
+	•	enforce structure and reliability
+	•	and support real decisions
 
----
+⸻
 
-## 🚀 Current Focus
+⚙️ What I’ve been building
+	•	A demand forecasting system with 12 models predicting 12 weeks ahead
+	•	A manufacturing database pipeline (~10k rows) with proper constraints & data integrity
+	•	Real-world systems using Python, SQL, Docker, and cloud platforms
 
-```python
-# Demand Forecasting Pipeline
-- Multi-city meal demand forecasting
-- 12-week ahead prediction
-- Time-series feature engineering
-- XGBoost baselines and neural network models
-- Embedding-based learning for categorical variables
-- Production-style workflow with Docker + PostgreSQL
+Most of my work is about one thing:
+
+👉 building systems you can trust — not just results that look good
+
+⸻
+
+🛠️ Tech I use
+
+Python • SQL • PyTorch • TensorFlow
+Docker • Flask • FastAPI • Streamlit
+AWS • PostgreSQL • Langchain • Langgraph • MCPs
+
+⸻
+
+⚡ How I think
+
+I care about:
+	•	understanding the problem before solving it
+	•	building clean, reliable systems
+	•	keeping things simple but scalable
+
+Because if the foundation is weak…
+everything on top breaks.
+
+⸻
+
+🚀 Currently
+
+Looking for opportunities where I can:
+	•	work on real data problems
+	•	contribute to production-level systems
+	•	keep learning from strong teams
+
+⸻
+
+📫 Let’s connect
+	•	LinkedIn: (https://linkedin.com/in/faheemb)
+	•	Email: adahm7114@gmail.com
+
+⸻
+
