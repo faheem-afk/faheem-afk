@@ -1,70 +1,95 @@
+<h1 align="center">Hi 👋, I'm Faheem</h1>
 
-👋 Hey, I’m Faheem
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Turning+messy+data+into+reliable+systems;Building+end-to-end+data+pipelines;Focused+on+real-world+impact" />
+</p>
 
-Most data problems don’t fail because of algorithms.
-They fail because the data wasn’t understood properly.
+---
+
+### 🧠 About Me
+
+Most data problems don’t fail because of algorithms.  
+They fail because the data wasn’t understood properly.  
 
 That’s where I spend most of my time.
 
-⸻
+---
 
-🧠 What I focus on
+### ⚙️ What I Focus On
 
 I work on turning messy, real-world data into systems that actually work end-to-end.
 
-Not just analysis.
-Not just code.
+Not just analysis.  
+Not just code.  
 
 But pipelines that:
-	•	make data usable
-	•	enforce structure and reliability
-	•	and support real decisions
+- make data usable  
+- enforce structure and reliability  
+- support real decisions  
 
-⸻
+---
 
-⚙️ What I’ve been building
-	•	A demand forecasting system with 12 models predicting 12 weeks ahead
-	•	A manufacturing database pipeline (~10k rows) with proper constraints & data integrity
-	•	Real-world systems using Python, SQL, Docker, and cloud platforms
+### 🚀 What I’ve Been Building
 
-Most of my work is about one thing:
+- 📊 Demand forecasting system → 12 models predicting 12 weeks ahead  
+- 🏭 Manufacturing database → ~10k rows with proper constraints & integrity  
+- ⚡ End-to-end systems using Python, SQL, Docker, and cloud  
 
-👉 building systems you can trust — not just results that look good
+👉 Building systems you can trust — not just results that look good
 
-⸻
+---
 
-🛠️ Tech I use
+### 🛠️ Tech Stack
 
-Python • SQL • PyTorch • TensorFlow
-Docker • Flask • FastAPI • Streamlit
-AWS • PostgreSQL • Langchain • Langgraph • MCPs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,pytorch,tensorflow,docker,flask,fastapi,aws,postgres" />
+</p>
 
-⸻
+<p align="center">
+  LangChain • LangGraph • MCP • Streamlit
+</p>
 
-⚡ How I think
+---
 
-I care about:
-	•	understanding the problem before solving it
-	•	building clean, reliable systems
-	•	keeping things simple but scalable
+### ⚡ How I Think
 
-Because if the foundation is weak…
+- Understand the problem before solving it  
+- Build clean, reliable systems  
+- Keep things simple but scalable  
+
+Because if the foundation is weak…  
 everything on top breaks.
 
-⸻
+---
 
-🚀 Currently
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faheem-afk&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faheem-afk&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Currently
 
 Looking for opportunities where I can:
-	•	work on real data problems
-	•	contribute to production-level systems
-	•	keep learning from strong teams
+- work on real data problems  
+- contribute to production-level systems  
+- keep learning from strong teams  
 
-⸻
+---
 
-📫 Let’s connect
-	•	LinkedIn: (https://linkedin.com/in/faheemb)
-	•	Email: adahm7114@gmail.com
+### 📫 Let’s Connect
 
-⸻
+- 🔗 LinkedIn: https://linkedin.com/in/faheemb  
+- 📧 Email: adahm7114@gmail.com  
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faheem-afk&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
