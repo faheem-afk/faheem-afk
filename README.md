@@ -14,7 +14,17 @@
 
 <img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=faheem-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&border_radius=12"/>
 
+### 👋 Hey, I'm Faheem
+```yaml
+role        : Data Analyst
+approach    : Understand the problem before solving it
+philosophy  : Build systems you can trust, not results that look good
+status      : Open to opportunities
+```
 
+Most data problems don't fail because of algorithms.
+They fail because **the data wasn't understood properly.**
+That's where I spend most of my time.
 
 <br clear="right"/>
 
