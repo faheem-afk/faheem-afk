@@ -15,18 +15,15 @@
 <img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=faheem-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&border_radius=12"/>
 
 ### 👋 Hey, I'm Faheem
-
 ```yaml
 role        : Data Analyst
-focus       : Supply Chain & Shipping Analytics
 approach    : Understand the problem before solving it
 philosophy  : Build systems you can trust, not results that look good
 status      : Open to opportunities
-location    : 🌍 Available Remotely
 ```
 
 Most data problems don't fail because of algorithms.
-They fail because **the data wasn't understood properly**.
+They fail because **the data wasn't understood properly.**
 That's where I spend most of my time.
 
 <br clear="right"/>
@@ -51,28 +48,6 @@ That's where I spend most of my time.
 ![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=flat&logo=pandas&logoColor=3B82F6)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-0D1117?style=flat&logo=streamlit&logoColor=FF4B4B)
 ![SciPy](https://img.shields.io/badge/-SciPy-0D1117?style=flat&logo=scipy&logoColor=8CAAE6)
-
-</td>
-<td width="50%">
-
-**📈 Demand Forecasting System**
-> Multi-model forecasting pipeline
-- 12 models predicting 12 weeks ahead
-- Comparative model evaluation framework
-- Production-ready pipeline architecture
-
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python&logoColor=3B82F6)
-![PyTorch](https://img.shields.io/badge/-PyTorch-0D1117?style=flat&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-0D1117?style=flat&logo=tensorflow&logoColor=FF6F00)
-
-**🏭 Manufacturing Database**
-> ~10k row production database
-- Full constraint & integrity enforcement
-- Normalized schema design
-- SQL query optimization
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=336791)
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker&logoColor=2496ED)
 
 </td>
 </tr>
@@ -129,13 +104,13 @@ def approach_to_data(problem):
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=faheem-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&border_radius=12&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=faheem-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheem-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&border_radius=12"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheem-afk&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=faheem-afk&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6&border_radius=12"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=faheem-afk&theme=tokyonight&hide_border=true"/>
 
 </div>
 
