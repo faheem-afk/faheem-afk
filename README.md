@@ -100,17 +100,20 @@ def approach_to_data(problem):
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=faheem-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheem-afk&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- GitHub Profile Summary Cards — most reliable alternative currently -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faheem-afk&theme=github_dark" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faheem-afk&theme=github_dark" height="160"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=faheem-afk&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faheem-afk&theme=github_dark&utcOffset=0" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faheem-afk&theme=github_dark" height="160"/>
 
 </div>
 
